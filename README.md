@@ -9,18 +9,6 @@
 
 <h3 align="center">How to Create a Full-Stack Application with Next.js</h3>
 
-  <p align="center">
-    A Step-By-Step Tutorial for Beginners
-    <br />
-    <a href="https://www.freecodecamp.org/news/step-by-step-tutorial-for-building-your-first-full-stack-application-with-nextjs"><strong>Read on FreeCodeCamp »</strong></a>
-    <br />
-    <br />
-    <a href="https://next-fcc-familyguy.vercel.app/">View Demo</a>
-    ·
-    <a href="https://github.com/Yazdun/next-fcc-familyguy/issues">Request Feature</a>
-    ·
-    <a href="https://github.com/Yazdun/next-fcc-familyguy/issues">Report Bug</a>
-  </p>
 
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-brightgreen?logo=freeCodeCamp)](https://www.freecodecamp.org/)
 [![React](https://img.shields.io/badge/-React-blue?logo=React)](https://reactjs.org/)
@@ -28,12 +16,6 @@
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&logoColor=black&color=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?logo=JavaScript&logoColor=white&color=FFA500)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-blue?logo=Framer)](https://www.framer.com/api/motion/)
-
-</div>
-
-<div align="center">
-
-![Thumbnail](./public/thumbnail.jpg)
 
 </div>
 
